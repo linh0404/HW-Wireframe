@@ -15,7 +15,7 @@ section,
 aside,
 footer {
     background: #ebebeb;
-    margin: 10px;
+    margin: 15px;
 }
 
 .home,
@@ -41,7 +41,7 @@ header {
 article {
     color: #ebebeb;
     background: #777;
-    margin: 10px;
+    margin: 15px;
     padding: 5px;
 }
 
@@ -51,7 +51,7 @@ p {
     color: #777;
     background: #ebebeb;
     text-align: center;
-    margin: 10px;
+    margin: 15px;
 }
 
 h2 {
@@ -68,8 +68,8 @@ section {
 aside {
     float: right;
     text-align: center;
-    width: 425px;
-    height: 380px;
+    width: 405px;
+    height: 404px;
 }
 
 footer {
